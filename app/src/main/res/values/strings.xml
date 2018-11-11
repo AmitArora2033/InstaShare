@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">InstaShare</string>
+  <string name="drawer_close">drawer_close</string>
+  <string name="drawer_open">drawer_open</string>
+  <string name="navigation_drawer_open">Open Navigation Drawer</string>
+  <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
